@@ -1,0 +1,9 @@
+:root {
+  color-scheme: light dark;
+}
+
+body {
+    background-color: light-dark(white, black);
+    color: light-dark(black, white);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

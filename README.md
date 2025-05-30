@@ -39,8 +39,15 @@ Read the [LICENSE file](LICENSE).
 
 ## References
 
-- [Compression and decompression in the browser with the Compression Streams API](https://developer.chrome.com/blog/compression-streams-api)
+- [WHATWG - Compression Living Standard](https://compression.spec.whatwg.org/)
+- [MDN - DecompressionStream](https://developer.mozilla.org/en-US/docs/Web/API/DecompressionStream)
 - [MDN - Compression Streams API](https://developer.mozilla.org/en-US/docs/Web/API/Compression_Streams_API)
+- [Compression Streams are now supported on all browsers](https://web.dev/blog/compressionstreams)
+- [Compression and decompression in the browser with the Compression Streams API](https://developer.chrome.com/blog/compression-streams-api)
+- [Writing a simple browser zip file decompressor with CompressionStreams](https://dev.to/ndesmic/writing-a-simple-browser-zip-file-decompressor-with-compressionstreams-5che)
+- [S. Vazzoler: CompressionStream JS API](https://stefanovazzoler.com/compression-stream-api/)
+- [A. Martel: How to use the native Compression Streams API to compress and decompress strings in JavaScript](https://gist.github.com/alexis-martel/f70aaae9239b1e1a4a9eee8cf8f30b46)
+- [CompressionStream now behaves differently in Node.js, compared to browsers](https://github.com/mozilla/pdf.js/issues/17399)
 
 ## History
 
